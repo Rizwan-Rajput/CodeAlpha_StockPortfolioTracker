@@ -6,4 +6,9 @@ The user enters the number of stocks to purchase
 User then selects stock name and quantity from the available given stocks
 The program keeps track of stocks and its quantity in user's portfolio
 The program also tells about the total investment done by user
-#Installion
+#Requirements
+Python 3 should be installed on your system
+How to run the program
+Download or copy the python file
+Open yor IDE, then open the downloaded file on your IDE
+Click on RUn and the program will execute
